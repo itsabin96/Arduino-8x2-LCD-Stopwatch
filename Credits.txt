@@ -1,0 +1,2 @@
+1. AMOTEC, “Specification of LCD module,” [Online]. Available: http://dlnmh9ip6v2uc.cloudfront.net/datasheets/LCD/Monochrome/ADM0802A.pdf. [Accessed 09 December 2014].
+2. Grobotronics Learning, “Controllling LCD Display,” [Online]. Available: http://learning.grobotronics.com/2013/10/controlling-lcd-displays-8x2-raystar/. [Accessed 09 December 2014].
